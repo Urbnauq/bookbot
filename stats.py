@@ -34,4 +34,3 @@ def report(total_words, char_nums, book):
     for letter_num in char_nums:
         print(f"{letter_num['char']}: {letter_num['num']}")
     print("============= END ===============")
-
